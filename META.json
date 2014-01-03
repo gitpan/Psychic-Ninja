@@ -40,6 +40,6 @@
       }
    },
    "release_status" : "testing",
-   "version" : "0.10_01",
+   "version" : "0.10_02",
    "x_repository" : "https://github.com/briandfoy/psychic-ninja"
 }

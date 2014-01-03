@@ -9,7 +9,7 @@ use vars qw($VERSION);
 
 use Carp;
 
-$VERSION = '0.10_01';
+$VERSION = '0.10_02';
 
 =encoding utf8
 
